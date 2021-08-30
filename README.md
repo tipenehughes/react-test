@@ -1,14 +1,12 @@
-# App name
+# React Testing with ZAF
 
-[brief description of the app]
+### To run locally:
 
-### The following information is displayed:
+-   npm install
+-   npm run watch
+-   zat server -p dist
 
-* info1
-* info2
-* info3
+### To package for install:
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+-   npm run build
+-   zat package -p dist
